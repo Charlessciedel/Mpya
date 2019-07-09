@@ -1,0 +1,15 @@
+
+  /* background-image: url('https://wallpapercave.com/wp/wp3891350.jpg');
+  background-size: cover; */
+
+.one{
+  border-radius: 50%;
+}
+ul{
+  list-style-type: none;
+}
+.row{
+  background-image: url('https://wallpapercave.com/wp/wp3891350.jpg');
+  background-size: cover;
+  margin: 4px;
+}
